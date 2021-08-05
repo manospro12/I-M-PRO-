@@ -1,3 +1,5 @@
 X=MsgBox("PRO?????",4+16,"I'M PRO?")
 X=MsgBox("YOUR HAKER",4+16,"I'PRO?")
 X=MsgBox("NOT PRO?",4+16,"ME?")
+X=MsgBox("NOOOB",0+16,"YOU")
+X=MsgBox("YES YOU NOOOOOOB",0+16,"I'M HAKER")
